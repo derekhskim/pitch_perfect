@@ -31,6 +31,12 @@ To run the Pitch Perfect app on your device:
 
 Note: Make sure to grant microphone permission to the app when prompted, as it's necessary for pitch detection.
 
+## Published
+
+![Android: Google Play](https://play.google.com/store/apps/details?id=com.noobietubie.pitch.perfect)
+
+![iOS: Apple Store](https://apps.apple.com/ca/app/pitch-perfect/id1637198395)
+
 ## Contributions
 
 Contributions to the Pitch Perfect app are welcome. If you find any issues or have suggestions for improvements, please open an issue or submit a pull request on the GitHub repository.
