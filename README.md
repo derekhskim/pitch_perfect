@@ -43,4 +43,4 @@ Contributions to the Pitch Perfect app are welcome. If you find any issues or ha
 
 ## License
 
-The Pitch Perfect app is open source and released under the [MIT License](LICENSE). Feel free to modify and use the code for personal or commercial projects.
+The Pitch Perfect app is open source and released under the MIT License. Feel free to modify and use the code for personal or commercial projects.
