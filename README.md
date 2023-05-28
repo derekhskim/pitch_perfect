@@ -33,9 +33,9 @@ Note: Make sure to grant microphone permission to the app when prompted, as it's
 
 ## Published
 
-![Android: Google Play](https://play.google.com/store/apps/details?id=com.noobietubie.pitch.perfect)
+[Android: Google Play](https://play.google.com/store/apps/details?id=com.noobietubie.pitch.perfect)
 
-![iOS: Apple Store](https://apps.apple.com/ca/app/pitch-perfect/id1637198395)
+[iOS: Apple Store](https://apps.apple.com/ca/app/pitch-perfect/id1637198395)
 
 ## Contributions
 
