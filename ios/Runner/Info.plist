@@ -35,8 +35,6 @@
 	</dict>
 	<key>NSMicrophoneUsageDescription</key>
 	<string>You have to give permissions if you'd like to sing!</string>
-	<key>NSBluetoothAlwaysUsageDescription</key>
-	<key>NSBluetoothPeripheralUsageDescription</key>
 	<key>UILaunchStoryboardName</key>
 	<string>LaunchScreen</string>
 	<key>UIMainStoryboardFile</key>
@@ -56,5 +54,7 @@
 	</array>
 	<key>UIViewControllerBasedStatusBarAppearance</key>
 	<false/>
+	<key>UIApplicationSupportsIndirectInputEvents</key>
+	<true/>
 </dict>
 </plist>
